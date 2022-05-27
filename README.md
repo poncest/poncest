@@ -51,30 +51,14 @@
 </h1>
 
 <h3 align="left">
- Machine Learning:
- - Company Segmentation: 
-  <a href="https://rpubs.com/poncest/885397">
+ Machine Learning: Company Segmentation: 
+     <a href="https://rpubs.com/poncest/885397">
      <img border="0" alt="company segmentation" src="https://github.com/poncest/poncest/blob/main/img/company_segmentation.png" >
 </a 
 </h3>
 
 
 
-
-<div id="badges" align="center">
-
-  <a href="https://www.linkedin.com/in/stevenponce/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/sponce11/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/sponce1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="mailto:steven_ponce@yahoo.com">
-    <img src="https://img.shields.io/badge/Mail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-  </a>
 
 
 <!--
