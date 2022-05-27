@@ -33,7 +33,7 @@
 
  <!-- hello and about me text sections -->  
 <h3 align="center">
-  :man_scientist: Data Science • Data Analysis • Data Visualization • Business Intelligence • #rstats • #python :art: 
+  Data Science • Data Analysis • Data Visualization • Business Intelligence • #rstats • #python 
 </h3>
 
   
