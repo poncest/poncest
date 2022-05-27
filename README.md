@@ -1,6 +1,8 @@
+<!-- bannner -->
 ![](https://github.com/poncest/poncest/blob/main/icons/banner.jpg)
 
 
+<!-- social media buttons -->
 <h1 style="font-weight:normal" align="center">
    &nbsp;Hi there, I'm Steven :wave:&nbsp;
 </h1>
@@ -24,18 +26,23 @@
 </a 
 </div>
 
+<!-- profile counter button -->
+<img src="https://komarev.com/ghpvc/?username=poncest&style=flat-square&color=blue" alt="counter"/>
+
+ <!-- hello and about me text sections -->  
 <h3 align="center">
   :man_scientist: Data Science • Data Analysis • Data Visualization • Business Intelligence • #rstats • #python :art: 
 </h3>
 <br>
-
-   
-   <img src="https://komarev.com/ghpvc/?username=poncest&style=flat-square&color=blue" alt="counter"/>
-
+  
+<h3 align="left">
+  :man_scientist: Data Science • Data Analysis • Data Visualization • Business Intelligence • #rstats • #python :art: 
+ </h3>
+<br>
 >
 
 
-<!--
+<!-- 
 
 <div id="badges" align="center">
 
