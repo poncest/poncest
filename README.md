@@ -23,12 +23,13 @@
 
 <a href="https://www.instagram.com/sponce11/">
    <img border="0" alt="Instagram" src="https://github.com/poncest/poncest/blob/main/icons/IG.svg" width="40" height="40">
-</a 
-</div>
+</a> 
 
-&nbsp;
+
 <!-- profile counter button -->
+<h3 style="font-weight:normal" align="center">
 <img src="https://komarev.com/ghpvc/?username=poncest&style=flat-square&color=blue" alt="counter"/>
+</h3>
 
  <!-- hello and about me text sections -->  
 <h3 align="center">
@@ -36,11 +37,11 @@
 </h3>
 
   
-<h3 align="left">
-   👨‍💻 I'm currently working on data visualization using rstats and ggplot and ML with tidymodels &nbsp;&nbsp;&nbsp;
-   
+<h4 align="left">
+   👨‍💻 I'm currently working on data visualization using rstats and ggplot and ML with tidymodels 
+   <br><br>
    📚 I'm currently learning functional programming and tidy eval
- </h3>
+</h4>
 <br>
 
 
@@ -49,18 +50,16 @@
    Recent Projects
 </h1>
 
-<h2 align="left">
-   Machine Learning:
-   - Company Segmentation: 
-   <a href="https://rpubs.com/poncest/885397">![]()</a>
-</h1>
+<h3 align="left">
+ Machine Learning:
+ - Company Segmentation: 
+  <a href="https://rpubs.com/poncest/885397">
+     <img border="0" alt="company segmentation" src="https://github.com/poncest/poncest/blob/main/img/company_segmentation.png" >
+</a 
+</h3>
 
 
 
-
-
-
-<!-- 
 
 <div id="badges" align="center">
 
@@ -76,9 +75,6 @@
    <a href="mailto:steven_ponce@yahoo.com">
     <img src="https://img.shields.io/badge/Mail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
-
-</div>
--->
 
 
 <!--
