@@ -26,6 +26,7 @@
 </a 
 </div>
 
+&nbsp;
 <!-- profile counter button -->
 <img src="https://komarev.com/ghpvc/?username=poncest&style=flat-square&color=blue" alt="counter"/>
 
@@ -33,13 +34,30 @@
 <h3 align="center">
   :man_scientist: Data Science • Data Analysis • Data Visualization • Business Intelligence • #rstats • #python :art: 
 </h3>
-<br>
+
   
 <h3 align="left">
-  :man_scientist: Data Science • Data Analysis • Data Visualization • Business Intelligence • #rstats • #python :art: 
+   👨‍💻 I'm currently working on data visualization using rstats and ggplot and ML with tidymodels &nbsp;&nbsp;&nbsp;
+   
+   📚 I'm currently learning functional programming and tidy eval
  </h3>
 <br>
->
+
+
+<!-- Recent Projects Section -->
+<h1 align="left">
+   Recent Projects
+</h1>
+
+<h2 align="left">
+   Machine Learning:
+   - Company Segmentation: 
+   <a href="https://rpubs.com/poncest/885397">![]()</a>
+</h1>
+
+
+
+
 
 
 <!-- 
