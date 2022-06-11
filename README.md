@@ -58,7 +58,7 @@
         
    <br></br>
  :pushpin: Data Visualization: America`s top-100 most visible companies - growth and P&S
-   <a href="https://rpubs.com/poncest/885397">
+   <a href="https://github.com/poncest/tidytuesday/tree/main/2022/Week_22">
    <img border="0" alt="top-100 most visible companies" src="https://github.com/poncest/tidytuesday/blob/main/2022/Week_22/2022_22_reputation.png" >
    </a>
         
