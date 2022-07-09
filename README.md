@@ -1,5 +1,5 @@
 <!-- bannner -->
-![](https://github.com/poncest/poncest/blob/main/icons/banner_02.png)
+![](https://github.com/poncest/poncest/blob/main/icons/banner_03.png)
 
 
 <!-- social media buttons -->
