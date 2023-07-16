@@ -1,3 +1,4 @@
+
 <!-- bannner -->
 ![](https://github.com/poncest/poncest/blob/main/icons/banner_03.png)
 
@@ -38,53 +39,37 @@
 
   
 <h4 align="left">
-   👨‍💻 I'm currently working on data visualization using rstats and ggplot and ML with tidymodels 
+   👨‍💻 I'm currently working on data visualization using rstats and ggplot2, and ML with tidymodels.
    <br><br>
    📚 I'm currently learning functional programming and tidy eval
 </h4>
 <br>
 
 
-<!-- Recent Projects Section -->
-<h1 align="left">
-   Recent Projects
-</h1>
+<!-- Personal Projects Section -->
 
-<h3 align="left">
- :pushpin: Machine Learning: Company Segmentation 
-   <a href="https://rpubs.com/poncest/885397">
-   <img border="0" alt="company segmentation" src="https://github.com/poncest/poncest/blob/main/img/company_segmentation.png" >
-   </a>
-              
-   <br></br>
- :pushpin: Data Visualization: Pell Grants - Puerto Rico, 1999 - 2017
-   <a href="https://github.com/poncest/tidytuesday/tree/main/2022/Week_35">
-   <img border="0" alt="(a) Line chart of median Pell grant award per recipient in Puerto Rico, 1999-2017. (b) KPI indicator – showing the percent increase without adjusting the cost of living. (c) Scatter plot of median award vs. median recipient."  src="https://github.com/poncest/tidytuesday/blob/main/2022/Week_35/2022_35_pell.png" >
-   </a>
-               
-</h3>
+<!-- #TidyTuesday Challenge  -->
+<h3 align="left"><a href="https://github.com/poncest/tidytuesday" target="_blank">#TidyTuesday Challange</a></h3>
+
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_04.png" alt="#TidyTuesday Challange" width="24%"/></a>
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_23.png" alt="#TidyTuesday Challange" width="24%"/></a>
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_24.png" alt="#TidyTuesday Challange" width="24%"/></a>
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_27.png" alt="#TidyTuesday Challange" width="24%"/></a>
+
+Tidy Tuesday intends to provide a safe and supportive forum for individuals to practice their wrangling and data visualization skills independent of drawing conclusions. While we understand that the two are related, this practice focuses purely on building skills with real-world data.
+
+
+<!-- #SWDchallenge -->
  
+<h3 align="left"><a href="https://github.com/poncest/SWDchallange" target="_blank">#SWDchallenge</a></h3>
 
-<!--
-   <br></br>
- :pushpin: Data Visualization: America`s top-100 most visible companies - growth and P&S
-   <a href="https://github.com/poncest/tidytuesday/tree/main/2022/Week_22">
-   <img border="0" alt="top-100 most visible companies" src="https://github.com/poncest/tidytuesday/blob/main/2022/Week_22/2022_22_reputation.png" >
-   </a>
--->
+<a href="https://github.com/poncest/SWDchallange" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/swd_01.png" alt="#SWDchallenge" width="24%"/></a>
+
+The #SWDchallenge is a monthly challenge where you can practice and apply data visualization and storytelling skills. This is a safe space to try something new: test out a new tool, technique, or approach. 
 
 
-<!--
-**poncest/poncest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- PLACEHOLDER Course Projects Section -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
