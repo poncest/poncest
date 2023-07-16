@@ -71,9 +71,13 @@ The #SWDchallenge is a monthly challenge where you can practice and apply data v
 <!-- PLACEHOLDER Course Projects Section -->
 <h2 align="left">Course Related Projects</h2>
 
+<!-- Business Science University (BSU)  -->
+<h3 align="left"><a href="https://github.com/poncest/BSU" target="_blank">Business Science University (BSU)</a></h3>
+
 <a href="https://github.com/poncest/tidytuesday" target="_blank">
 <a href="https://rpubs.com/poncest/885397">
 <img src="https://github.com/poncest/poncest/blob/main/cropped_img/bsu_segmentation.png" alt="Machine Learning: Company Segmentation" width="24%"/></a>
 
+Machine Learning: Company Segmentation.
 
 
