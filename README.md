@@ -47,20 +47,20 @@
 
 
 <!-- Personal Projects Section -->
+<h2 align="left">Personal Projects</h2>
 
 <!-- #TidyTuesday Challenge  -->
-<h3 align="left"><a href="https://github.com/poncest/tidytuesday" target="_blank">#TidyTuesday Challange</a></h3>
+<h3 align="left"><a href="https://github.com/poncest/tidytuesday" target="_blank">#TidyTuesday Challenge</a></h3>
 
-<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_04.png" alt="#TidyTuesday Challange" width="24%"/></a>
-<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_23.png" alt="#TidyTuesday Challange" width="24%"/></a>
-<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_24.png" alt="#TidyTuesday Challange" width="24%"/></a>
-<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_27.png" alt="#TidyTuesday Challange" width="24%"/></a>
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_04.png" alt="#TidyTuesday Challenge" width="24%"/></a>
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_23.png" alt="#TidyTuesday Challenge" width="24%"/></a>
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_24.png" alt="#TidyTuesday Challenge" width="24%"/></a>
+<a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_27.png" alt="#TidyTuesday Challenge" width="24%"/></a>
 
 Tidy Tuesday intends to provide a safe and supportive forum for individuals to practice their wrangling and data visualization skills independent of drawing conclusions. While we understand that the two are related, this practice focuses purely on building skills with real-world data.
 
 
 <!-- #SWDchallenge -->
- 
 <h3 align="left"><a href="https://github.com/poncest/SWDchallange" target="_blank">#SWDchallenge</a></h3>
 
 <a href="https://github.com/poncest/SWDchallange" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/swd_01.png" alt="#SWDchallenge" width="24%"/></a>
@@ -69,7 +69,11 @@ The #SWDchallenge is a monthly challenge where you can practice and apply data v
 
 
 <!-- PLACEHOLDER Course Projects Section -->
+<h2 align="left">Course Related Projects</h2>
 
+<a href="https://github.com/poncest/tidytuesday" target="_blank">
+<a href="https://rpubs.com/poncest/885397">
+<img src="https://github.com/poncest/poncest/blob/main/cropped_img/bsu_segmentation.png" alt="Machine Learning: Company Segmentation" width="24%"/></a>
 
 
 
