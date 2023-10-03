@@ -66,6 +66,7 @@ Tidy Tuesday intends to provide a safe and supportive forum for individuals to p
 <a href="https://github.com/poncest/SWDchallange" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/swd_01.png" alt="#SWDchallenge" width="24%"/></a>
 <a href="https://github.com/poncest/SWDchallange" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/swd_02.png" alt="#SWDchallenge" width="24%"/></a>
 <a href="https://github.com/poncest/SWDchallange" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/swd_03.png" alt="#SWDchallenge" width="24%"/></a>
+<a href="https://github.com/poncest/SWDchallange" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/swd_04.png" alt="#SWDchallenge" width="24%"/></a>
 
 The #SWDchallenge is a monthly challenge where you can practice and apply data visualization and storytelling skills. This is a safe space to try something new: test out a new tool, technique, or approach. 
 
