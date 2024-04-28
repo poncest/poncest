@@ -73,11 +73,7 @@ The #SWDchallenge is a monthly challenge where you can practice and apply data v
 
 <!-- #30DayChartChallenge -->    
 
-<h3 align="left">
-
-<a href="https://github.com/poncest/30DayChartChallenge" target="_blank">#30DayChartChallenge</a>
-
-</h3>
+<h3 align="left"><a href="https://github.com/poncest/30DayChartChallenge" target="_blank">#30DayChartChallenge</a></h3>
 
 <a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/master/cropped_img/30dcc_06.png" alt="#30DayChartChallenge" width="24%"/></a>
 <a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/master/cropped_img/30dcc_12.png" alt="#30DayChartChallengee" width="24%"/></a>
