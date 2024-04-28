@@ -108,7 +108,7 @@ to try something new: test out a new tool, technique, or approach.
 
 # TODO HERE
 
-<!-- #30DayChartChallenge -->   
+<!-- #30DayChartChallenge -->    
 
 <h3 align="left">
 
