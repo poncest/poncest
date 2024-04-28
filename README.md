@@ -71,14 +71,14 @@ Tidy Tuesday intends to provide a safe and supportive forum for individuals to p
 The #SWDchallenge is a monthly challenge where you can practice and apply data visualization and storytelling skills. This is a safe space to try something new: test out a new tool, technique, or approach. 
 
 
-<!-- #30DayChartChallenge -->    
+<!-- #30DayChartChallenge --> 
 
 <h3 align="left"><a href="https://github.com/poncest/30DayChartChallenge" target="_blank">#30DayChartChallenge</a></h3>
 
-<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/master/cropped_img/30dcc_06.png" alt="#30DayChartChallenge" width="24%"/></a>
-<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/master/cropped_img/30dcc_12.png" alt="#30DayChartChallengee" width="24%"/></a>
-<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/master/cropped_img/30dcc_16.png" alt="#30DayChartChallenge" width="24%"/></a>
-<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/master/cropped_img/30dcc_29.png" alt="#30DayChartChallenge" width="24%"/></a>
+<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/30dcc_06.png" alt="#30DayChartChallenge" width="24%"/></a>
+<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/30dcc_12.png" alt="#30DayChartChallengee" width="24%"/></a>
+<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/30dcc_16.png" alt="#30DayChartChallenge" width="24%"/></a>
+<a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/30dcc_29.png" alt="#30DayChartChallenge" width="24%"/></a>
 
 The #30DayChartChallenge is an annual community-driven event that takes place throughout the month of April. Each day, participants are prompted to create a visualization related to one of five categories: comparisons, distributions, relationships, time series, and uncertainties. Everyone is welcome to participate, regardless of the data source or tool used to create the visualizations.
 
