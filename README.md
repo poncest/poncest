@@ -49,6 +49,7 @@
 <!-- Personal Projects Section -->
 <h2 align="left">Personal Projects</h2>
 
+
 <!-- #TidyTuesday Challenge  -->
 <h3 align="left"><a href="https://github.com/poncest/tidytuesday" target="_blank">#TidyTuesday Challenge</a></h3>
 
@@ -58,6 +59,7 @@
 <a href="https://github.com/poncest/tidytuesday" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/tt_2023_27.png" alt="#TidyTuesday Challenge" width="24%"/></a>
 
 Tidy Tuesday intends to provide a safe and supportive forum for individuals to practice their wrangling and data visualization skills independent of drawing conclusions. While we understand that the two are related, this practice focuses purely on building skills with real-world data.
+
 
 
 <!-- #SWDchallenge -->
@@ -71,6 +73,7 @@ Tidy Tuesday intends to provide a safe and supportive forum for individuals to p
 The #SWDchallenge is a monthly challenge where you can practice and apply data visualization and storytelling skills. This is a safe space to try something new: test out a new tool, technique, or approach. 
 
 
+
 <!-- #30DayChartChallenge --> 
 
 <h3 align="left"><a href="https://github.com/poncest/30DayChartChallenge" target="_blank">#30DayChartChallenge</a></h3>
@@ -81,6 +84,16 @@ The #SWDchallenge is a monthly challenge where you can practice and apply data v
 <a href="https://github.com/poncest/30DayChartChallenge" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/30dcc_29.png" alt="#30DayChartChallenge" width="24%"/></a>
 
 The #30DayChartChallenge is an annual community-driven event that takes place throughout the month of April. Each day, participants are prompted to create a visualization related to one of five categories: comparisons, distributions, relationships, time series, and uncertainties. Everyone is welcome to participate, regardless of the data source or tool used to create the visualizations.
+
+
+
+<!-- Publications Section -->
+<h2 align="left">Publications</h2>
+
+<!-- PHUSE RBQM - QTL  -->
+<h3 align="left"><a href="https://github.com/poncest/PHUSE_RBM_QTL" target="_blank">PHUSE RBQM QTLs</a></h3>
+
+<a href="https://github.com/poncest/PHUSE_RBM_QTL" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/phuse_qtl.png" alt="PHUSE RBQM QTLs" width="24%"/></a>
 
 
 
