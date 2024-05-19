@@ -91,8 +91,8 @@ The #30DayChartChallenge is an annual community-driven event that takes place th
 
 <h3 align="left"><a href="https://github.com/poncest/BACK-2-VIZ-BASICS" target="_blank">#B2VB</a></h3>
 
-<a href="https://github.com/poncest/BACK-2-VIZ-BASICS/blob/main/2024/week_02/2024_02.png" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/30dcc_06.png" alt="#B2VB" width="24%"/></a>
-<a href="https://github.com/poncest/BACK-2-VIZ-BASICS/blob/main/2024/week_05/2024_05.png" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/30dcc_12.png" alt="#B2VB" width="24%"/></a>
+<a href="https://github.com/poncest/BACK-2-VIZ-BASICS/blob/main/2024/week_02/2024_02.png" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/b2vb_2024_02.png" alt="#B2VB" width="24%"/></a>
+<a href="https://github.com/poncest/BACK-2-VIZ-BASICS/blob/main/2024/week_05/2024_05.png" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/b2vb_2024_05.png" alt="#B2VB" width="24%"/></a>
 
 
 A Tableau Community Project (#B2VB) that takes us back to our viz basics. Wherever you stand in your Tableau or Data Visualization Journey, this project is here to help you practice some of the basics to help you form or rebuild a solid foundation.
