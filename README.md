@@ -98,6 +98,18 @@ The #30DayChartChallenge is an annual community-driven event that takes place th
 A Tableau Community Project (#B2VB) that takes us back to our viz basics. Wherever you stand in your Tableau or Data Visualization Journey, this project is here to help you practice some of the basics to help you form or rebuild a solid foundation.
 
 
+<!-- R Packages -->
+<h2 align="left">R Packages</h2>
+
+
+<!-- #TidyTuesday Challenge  -->
+<h3 align="left"><a href="https://github.com/poncest/bobsburgersR" target="_blank">bobsburgersR</a></h3>
+
+<a href="https://github.com/poncest/bobsburgersR" target="_blank"><img src="https://github.com/poncest/poncest/blob/main/cropped_img/bobsburgersR" alt="bobsburgersR" width="24%"/></a>
+
+I created the `{bobsburgersR}` package, which provides easy access to data from the Bob's Burgers TV show. This package includes episode ratings, character dialogues, and more, making it perfect for fans who want to explore the show through data.
+
+
 <!-- Publications Section -->
 <h2 align="left">Publications</h2>
 
