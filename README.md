@@ -8,7 +8,7 @@
 
  Hi there, I'm Steven :wave: 
 
-<</h1>
+</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 10px;">
   <a href="https://www.linkedin.com/in/stevenponce/" target="_blank">
