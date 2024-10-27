@@ -1,4 +1,4 @@
-<!-- bannner -->
+<!-- banner -->
 
 ![](https://github.com/poncest/poncest/blob/main/icons/banner_03.png)
 
@@ -26,7 +26,7 @@
 <img src="https://komarev.com/ghpvc/?username=poncest&amp;style=flat-square&amp;color=blue" alt="counter"/>
 
 </h3>
-:/div""
+</div>
 
 
 <!-- hello and about me text sections -->\
