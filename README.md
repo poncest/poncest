@@ -10,7 +10,7 @@
 
 </h1>
 
-::: {#badges align="center"}
+<div align="center">
 <a href="https://www.linkedin.com/in/stevenponce/"> <img src="https://github.com/poncest/poncest/blob/main/icons/LINKEDIN.svg" alt="LinkedIn" border="0" width="40" height="40"/> </a>
 
 <a href="mailto:steven_ponce@yahoo.com"> <img src="https://github.com/poncest/poncest/blob/main/icons/MAIL.svg" alt="Email" border="0" width="40" height="40"/> </a>
@@ -26,7 +26,7 @@
 <img src="https://komarev.com/ghpvc/?username=poncest&amp;style=flat-square&amp;color=blue" alt="counter"/>
 
 </h3>
-:::
+:/div""
 
 
 <!-- hello and about me text sections -->\
