@@ -8,16 +8,22 @@
 
  Hi there, I'm Steven :wave: 
 
-</h1>
+<</h1>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/stevenponce/"> <img src="https://github.com/poncest/poncest/blob/main/icons/LINKEDIN.svg" alt="LinkedIn" border="0" width="40" height="40"/> </a>
-
-<a href="mailto:steven_ponce@yahoo.com"> <img src="https://github.com/poncest/poncest/blob/main/icons/MAIL.svg" alt="Email" border="0" width="40" height="40"/> </a>
-
-<a href="https://twitter.com/sponce1"> <img src="https://github.com/poncest/poncest/blob/main/icons/TWITTER.svg" alt="Twitter" border="0" width="40" height="40"/> </a>
-
-<a href="https://www.instagram.com/sponce11/"> <img src="https://github.com/poncest/poncest/blob/main/icons/IG.svg" alt="Instagram" border="0" width="40" height="40"/> </a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/stevenponce/" target="_blank">
+    <img src="https://github.com/poncest/poncest/blob/main/icons/LINKEDIN.svg" alt="LinkedIn" border="0" width="40" height="40" />
+  </a>
+  <a href="mailto:steven_ponce@yahoo.com" target="_blank">
+    <img src="https://github.com/poncest/poncest/blob/main/icons/MAIL.svg" alt="Email" border="0" width="40" height="40" />
+  </a>
+  <a href="https://twitter.com/sponce1" target="_blank">
+    <img src="https://github.com/poncest/poncest/blob/main/icons/TWITTER.svg" alt="Twitter" border="0" width="40" height="40" />
+  </a>
+  <a href="https://www.instagram.com/sponce11/" target="_blank">
+    <img src="https://github.com/poncest/poncest/blob/main/icons/IG.svg" alt="Instagram" border="0" width="40" height="40" />
+  </a>
+</div>
 
 <!-- profile counter button -->
 
